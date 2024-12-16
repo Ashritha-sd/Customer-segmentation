@@ -1,2 +1,6 @@
 # Customer-segmentation
 Data-Driven Mall Customer Segmentation for Business Success
+
+Everything that is associated with software has some or the other kind of data. In shopping malls, there are huge sets of data that are related to new features, offers, materials, and price of the item. Based on all these factors there would be a huge data set and if we filter this data and process it in a structured form and categorize and visualize them in the form of graphs and plots. This would give us huge advantages such as setting budgets, brand promotions, marketing, and customer satisfaction, which is the focus to gain new customers and to retain previous ones.
+
+We can achieve this by using Machine Learning Technologies, such as K-Means clustering Algorithm. By employing machine learning techniques, we can eliminate manual segmentation. It also allows us to retrain the model with the new data acquired, which would increase its efficiency and performance. Our data set consists of almost 24000 datasets that would allow us to train and test our model to achieve accurate values. K-means clustering can be used when we have data that is unlabeled. We must find an accurate number of clusters, through which we can visualize the result.
